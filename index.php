@@ -1,5 +1,5 @@
 <?php
-include "includes/test.php"
+include "test.php"
 ?>
 <!DOCTYPE html>
 <html>
